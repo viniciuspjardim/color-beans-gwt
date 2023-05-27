@@ -30,6 +30,7 @@ i:icon/desk256.png:icon/desk256-ea8d6545f5dbbcdf4da988757005cefb.png:73496:image
 i:icon/desk32.png:icon/desk32-85bd1b3918123392468b13de56b32d28.png:2637:image/png:1
 i:icon/desk64.png:icon/desk64-a60a924eee3261bbc3ad66e028a10224.png:8203:image/png:1
 d:img:img:0:application/unknown:1
+i:img/loading.png:img/loading-2bff35621466f7bbfdff782563dc5e3c.png:793:image/png:1
 t:img/pack_m.atlas:img/pack_m-fc2ae4032a56ba41642cc0b5e43a9583.atlas:23773:application/unknown:1
 i:img/pack_m.png:img/pack_m-a8f09180682b39641d1983c5ec06d762.png:556447:image/png:1
 i:img/pack_m2.png:img/pack_m2-862344df7438999ca364c6b2e9bab22d.png:867063:image/png:1
