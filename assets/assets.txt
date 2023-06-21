@@ -16,8 +16,6 @@ a:audio/chain_26.ogg:audio/chain_26-89a7e8c85cb2f2ab05c81fe9855a8ff2.ogg:60250:a
 a:audio/chain_27.ogg:audio/chain_27-5978408f9888bec0f3e3c5fcae65f315.ogg:54732:audio/ogg:1
 a:audio/lostfall.ogg:audio/lostfall-99d4caa09244eedce80ee8c5a2b09a5c.ogg:66161:audio/ogg:1
 a:audio/music1.ogg:audio/music1-a69c8b343de49a7ec62b1cfb44ad616e.ogg:3573849:audio/ogg:1
-a:audio/music2.ogg:audio/music2-3f7ddf1dbbc9f268df5f22d5c2b39948.ogg:3273015:audio/ogg:1
-a:audio/music3.ogg:audio/music3-6dbced97b26b130f6fed9b9104991104.ogg:1931205:audio/ogg:1
 a:audio/trash.ogg:audio/trash-babaefbc1ca67c9ecd3faf6b29b2ba58.ogg:64146:audio/ogg:1
 d:font:font:0:application/unknown:1
 b:font/dimbo.ttf:font/dimbo-49358e9992ea00fd2bfeea9aa85fbfb2.ttf:42132:application/unknown:1
