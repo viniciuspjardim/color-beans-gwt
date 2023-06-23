@@ -20,7 +20,6 @@ a:audio/trash.ogg:audio/trash-babaefbc1ca67c9ecd3faf6b29b2ba58.ogg:64146:audio/o
 d:font:font:0:application/unknown:1
 b:font/dimbo.ttf:font/dimbo-49358e9992ea00fd2bfeea9aa85fbfb2.ttf:42132:application/unknown:1
 b:font/roboto.ttf:font/roboto-9745415b8a2a8b9a2480a12f7e2d3ad3.ttf:160696:application/unknown:1
-b:font/roboto_i.ttf:font/roboto_i-73e11170897b4a5db88d62fdfe8429ee.ttf:163940:application/unknown:1
 d:icon:icon:0:application/unknown:1
 i:icon/desk128.png:icon/desk128-f8e50efbbac2a3ee5398d80ccaaf2752.png:24858:image/png:1
 i:icon/desk256.png:icon/desk256-ea8d6545f5dbbcdf4da988757005cefb.png:73496:image/png:1
@@ -28,13 +27,12 @@ i:icon/desk32.png:icon/desk32-85bd1b3918123392468b13de56b32d28.png:2637:image/pn
 i:icon/desk64.png:icon/desk64-a60a924eee3261bbc3ad66e028a10224.png:8203:image/png:1
 d:img:img:0:application/unknown:1
 i:img/loading.png:img/loading-2bff35621466f7bbfdff782563dc5e3c.png:793:image/png:1
-t:img/pack.atlas:img/pack-706e2dd5d2f97772165586eff56c9484.atlas:23448:application/unknown:1
-i:img/pack.png:img/pack-a8f09180682b39641d1983c5ec06d762.png:556447:image/png:1
-i:img/pack2.png:img/pack2-862344df7438999ca364c6b2e9bab22d.png:867063:image/png:1
-i:img/pack3.png:img/pack3-02bacc399e6e1e081936f903b001c76a.png:930653:image/png:1
-i:img/pack4.png:img/pack4-a9de7358ace8f4f9bba6d2702cdb7470.png:398529:image/png:1
-i:img/pack5.png:img/pack5-f9ffd5d54d548743398b1af59918b5e3.png:355916:image/png:1
-i:img/pack6.png:img/pack6-70f12375f8f39b78316cafc5b52151b6.png:132290:image/png:1
+t:img/pack.atlas:img/pack-adf6bbc64bf742a58a961a6d07291928.atlas:16198:application/unknown:1
+i:img/pack.png:img/pack-0eb58cf05f885940938b718080e3ee7e.png:615902:image/png:1
+i:img/pack2.png:img/pack2-daa0c30c336f99244ccf58fde682447f.png:954325:image/png:1
+i:img/pack3.png:img/pack3-4aef6cb3b2d062450f9b6900071c4fc2.png:182342:image/png:1
+i:img/pack4.png:img/pack4-fe068fda17b613de0862631e5b750f9f.png:378785:image/png:1
+i:img/pack5.png:img/pack5-26618462e0bf383e5e2e06e901018e0c.png:29481:image/png:1
 t:img/skin.json:img/skin-b69682dfdcecf5f1470c24c35a01d06e.json:1739:application/json:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
